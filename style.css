@@ -20,7 +20,7 @@
 
 body{
     background-color: var(--Background-color);
-    padding: 2rem 1rem;
+    padding: 40px 20px;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -34,12 +34,12 @@ body{
 
 
 .container{
-    max-width: 47rem;
-    width: 90%;
+    max-width: 736px;
+    width: 100%;
     background-color: var(--White-color);
     padding: 2em;
     border-radius: 20px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 img{
