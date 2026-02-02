@@ -171,14 +171,17 @@ th{
     .container{
         padding: 0;
         border-radius: 0;
-        max-width: 100vw;
+        width: 100%;
+        max-width: 100%;
+
     }
 
     .heading-text{
-        padding: 1rem;
+        padding:  0 1.5rem;
     }
 
     img{
+        width: 100%;
         border-radius: 0;
     }
 
@@ -195,21 +198,25 @@ th{
     .prep-section{
         margin: 1rem;
         font-size: 14px;
+        padding: 0 1.5rem;
     }
 
     .ingredients-section{
         margin: 1rem;
         font-size: 14px;
+        padding: 0 1.5rem;
     }
 
     .instruction{
         margin: 1rem;
         font-size: 14px;
+        padding:  0 1.5rem;
     }
 
     .nutrition-section{
         margin: 1rem;
         font-size: 0.9rem;
+        padding: 0 1.5rem;
     }
 }
 
